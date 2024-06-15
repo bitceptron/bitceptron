@@ -1,0 +1,12 @@
+[package]
+name = "bitceptron"
+version = "0.0.0"
+edition = "2021"
+authors = ["bitceptron"]
+description = "A placeholder for now"
+documentation = "https://docs.rs/bitceptron"
+repository = "https://github.com/bitceptron/bitceptron.git"
+license = "MIT"
+keywords = ["bitcoin"]
+
+[dependencies]
